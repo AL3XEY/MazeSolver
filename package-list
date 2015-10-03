@@ -4,7 +4,9 @@ es.ull.mazesolver.agent.rules
 es.ull.mazesolver.agent.rules.parser
 es.ull.mazesolver.agent.util
 es.ull.mazesolver.gui
+es.ull.mazesolver.gui.configuration
 es.ull.mazesolver.gui.environment
 es.ull.mazesolver.maze
 es.ull.mazesolver.maze.algorithm
+es.ull.mazesolver.translations
 es.ull.mazesolver.util
